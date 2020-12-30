@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>Registration form</title>
+        <style>
+            #heading{
+                text-align:center;
+                color:brown
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+            <h1 id="heading"><u>REGISTRATION FORM</u></h1>
+        <table>
+            <tr>
+                <td>First Name &nbsp;</td>
+                <td><input type="search"></td>
+            </tr>
+            <tr>
+                <td>Last Name &nbsp;</td>
+                <td><input type="search"></td>
+            </tr>
+            <tr>
+                <td>Password &nbsp;</td>
+                <td><input type="password"></td>
+            </tr>
+            <tr>
+                <td>Gender &nbsp;</td>
+                <td><input type="radio" name="gender" value="male"> Male
+               <input type="radio" name="gender" value="female"> Female
+               <input type="radio" name="gender" value="other"> Other
+                </td>
+            </tr>
+            <tr>
+                <td>Select City &nbsp;</td>
+                <td><input list="Select City" name="browser">
+                <datalist id="Select City">
+                    <option value="Hyderabad">
+                    <option value="Warangal">
+                    <option value="Kurnool">
+                    <option value="Pune">
+                </datalist>
+                </td>
+            </tr>
+            <tr>
+                <td>Hobbies &nbsp;</td>
+                <td>
+                   <textarea id="hobbies" name="hobbies" placeholder="Write something..." style="height: 100px"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td><input type="submit"></td>
+                <td><input type="reset"></td>
+            </tr>
+        </table>
+        </center>
+    </body>
+</html>
+
+
+
+
+
+
