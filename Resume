@@ -1,0 +1,92 @@
+<html>
+  <head>
+    <title>RESUME</title>
+      <style>
+          
+          #ts{
+            
+              border-collapse: collapse;
+              width: 100%;
+          }
+          td,th {
+              border: 1px solid;
+              text-align:left;
+              padding:4px;
+          }
+          th{
+              background-color:antiquewhite;
+          }
+          
+      </style>
+    </head>
+    <body style="background-color:aliceblue">
+       
+        <h1 style="text-align:center"><u>RESUME</u></h1>
+        <h4 style="text-align: center">jayasri akkkena|90149xxxxx</h4>
+        <h4 style="text-align: center">jayasri.akkena@gmail.com|Hyderabad</h4>
+        <h3><u>Career Objective:</u></h3>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;To become a successful professional in the field of Information Technology by utilizing my skills and enable further personal and professional development and work towards the prosperity of the organization.
+        </p>
+        <h3><u>Acedemic Qualifications:</u></h3>
+    
+        <id="ts"> <table>
+            <tr>
+                <th>Degree/Certificate</th>
+                <th>Institute</th>
+                <th>Board/University</th>
+                <th>Year</th>
+                <th>Aggregation</th>
+            </tr>
+            <tr>
+                <td>Tenth</td>
+                <td>IDPL High School</td>
+                <td>Board of secondary education</td>
+                <td>2017</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>Intermediate</td>
+                <td>TSRJC</td>
+                <td>Telangana Board of Intermediate</td>
+                <td>2019</td>
+                <td>9.75</td>
+            </tr>
+            <tr>
+                <td>B.tech(I)</td>
+                <td>MLR Institution of Technology</td>
+                <td>JNTUH</td>
+                <td>2023</td>
+                <td>9.60</td>
+            </tr>
+        </table>
+        </id>
+        <h3><u>Technical Skills:</u></h3>
+        <ul>
+           
+            <li>Languages known&nbsp;&nbsp;&nbsp;: C, Basics of Python</li> 
+            <li>Markup Languages&nbsp;: HTML5, CSS</li>
+        </ul>
+        <h3><u>Achievements:</u></h3>
+        <ul>
+            <li>Participated in Hackathon on Gaming at MLRIT-2020</li>
+            <li>National Badminton player-2019</li>
+            <li>Scouts and Guides Cadet-2017</li>
+        </ul>
+        <h3><u>Personals Details:</u></h3>
+         <p>
+             &nbsp;Father Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : A.Venkata Naidu<br>
+             &nbsp;Mother Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;: A.Padma<br>
+             &nbsp;Date of birth &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 11/02/2002<br>
+             &nbsp;Gender &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;Female<br>
+             &nbsp;Hobbies &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Reading books, playing games<br>
+             &nbsp;Languages known&nbsp;: Telugu,Hindi,English<br>  
+        </p>
+        <h3><u>Declaration:</u></h3>
+        <p>
+            &nbsp;&nbsp;&nbsp;&nbsp;I solemnly declare that all the information furnished in this document is free of errors to the best of my knowledge.
+        </p>
+        
+        <p style="text-align: right">A.Jayasri&nbsp;&nbsp;</p>
+        <h3 style="text-align: right"><u>Signature:</u></h3>
+    </body>
+</html>
